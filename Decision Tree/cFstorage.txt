@@ -1,0 +1,25 @@
+(dp0
+S'no surfacing'
+p1
+(dp2
+I0
+(dp3
+S'flippers'
+p4
+(dp5
+I0
+S'yes'
+p6
+sI1
+S'no'
+p7
+sssI1
+(dp8
+g4
+(dp9
+I0
+g7
+sI1
+S'maybe'
+p10
+ssss.

@@ -1,0 +1,7 @@
+young	myope	no	reduced	no lenses
+young	myope	no	normal	soft
+young	myope	yes	reduced	no lenses
+young	myope	yes	normal	hard
+young	hyper	no	reduced	no lenses
+young	hyper	no	normal	soft
+young	hyper	yes	reduced	no lenses
